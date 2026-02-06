@@ -47,6 +47,8 @@ The main objectives of this project are:
 ---
 
 ## 📁 Repository Structure
+
+```
 FUTURE_PE_03/
 │
 ├── prompts/
@@ -62,6 +64,7 @@ FUTURE_PE_03/
 │   └── content_cluster_map.txt
 │
 └── README.md
+```
 
 ---
 
