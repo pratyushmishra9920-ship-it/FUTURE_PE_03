@@ -1,1 +1,49 @@
+You are an expert SEO blog writer and local digital marketing strategist.
+
+Business: PowerFit Gym, Prayagraj, Uttar Pradesh  
+Services: Personal Training, Weight Loss, Muscle Building, Cardio, Zumba, Strength Training
+
+Task:
+Create SEO-optimized blog content and build a complete content cluster strategy to improve Google rankings and generate local leads.
+
+Instructions:
+
+- Use clear H1, H2, and H3 headings
+- Add a strong introduction and conclusion
+- Include FAQs and a persuasive Call-To-Action (CTA)
+- Use short paragraphs and bullet points for readability
+- Maintain a professional, simple, and engaging tone
+
+SEO Requirements:
+
+- Use primary keywords, secondary keywords, and location-based keywords naturally
+- Avoid keyword stuffing
+- Optimize content for both informational and commercial search intent
+- Include relevant internal linking opportunities
+
+Content Generation:
+
+Generate the following:
+
+1. One detailed pillar article (1200–1500 words)
+2. Multiple supporting blog posts (600–800 words each)
+3. An internal linking strategy connecting all blogs
+
+Content Cluster Guidelines:
+
+- Ensure the pillar page links to all supporting blogs
+- Ensure supporting blogs link back to the pillar page
+- Add logical cross-links between related cluster topics
+
+Output Format:
+
+- Organize content into clearly labeled sections
+- Provide proper titles for each blog
+- Separate pillar content and supporting blogs
+- Present internal linking in a simple list format
+- Make the output easy to save as individual text files
+
+Quality Check:
+
+Before finalizing, review the content for SEO effectiveness, clarity, local relevance, and lead-generation potential.
 
