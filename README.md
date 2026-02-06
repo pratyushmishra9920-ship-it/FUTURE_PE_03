@@ -103,8 +103,6 @@ Location:
 ---
 
 
----
-
 ## 📄 Generated Outputs
 
 The generated SEO content and content clusters are stored in:
