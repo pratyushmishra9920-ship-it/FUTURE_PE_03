@@ -88,7 +88,7 @@ It shows how the pillar page and supporting blogs are internally linked to impro
 - Basic structure  
 
 Location:
-Location: [v1_prompt.txt](prompts/v1_prompt.txt)
+[v1_prompt.txt](prompts/v1_prompt.txt)
 
 ---
 
@@ -100,7 +100,7 @@ Location: [v1_prompt.txt](prompts/v1_prompt.txt)
 - Clear content hierarchy  
 
 Location:
-Location: [v2_prompt.txt](prompts/v2_prompt.txt)
+[v2_prompt.txt](prompts/v2_prompt.txt)
 
 
 ---
