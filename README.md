@@ -15,7 +15,7 @@ Location: Prayagraj, Uttar Pradesh
 Industry: Fitness & Wellness  
 
 🌐 Live Demo Website:
-
+https://powerfit-gym-seo-con-mdp0.bolt.host/
 
 This project focuses on creating:
 
