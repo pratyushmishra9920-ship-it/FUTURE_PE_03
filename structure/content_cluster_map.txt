@@ -1,1 +1,22 @@
+This diagram represents the SEO content cluster
+for PowerFit Gym, Prayagraj.
+
+Pillar Page:
+Best Gym in Prayagraj – PowerFit Gym
+
+Supporting Blogs:
+- Personal Training
+- Weight Loss
+- Zumba
+- Cardio
+- Strength Training
+
+Linking Strategy:
+- All blogs link to pillar
+- Pillar links to all blogs
+- Cross-links between related topics
+
+Purpose:
+Build topical authority and improve
+local Google rankings.
 
