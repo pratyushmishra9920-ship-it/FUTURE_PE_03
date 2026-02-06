@@ -65,9 +65,6 @@ FUTURE_PE_03/
 
 ---
 
-
----
-
 ## 🗺 SEO Content Cluster Structure
 
 The following diagram represents the content cluster strategy for PowerFit Gym.
