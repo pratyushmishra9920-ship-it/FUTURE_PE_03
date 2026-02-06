@@ -1,1 +1,25 @@
-
+You are an expert seo blog writer 
+PowerFit Gym, Prayagraj, Uttar Pradesh 
+services:
+Personal Training, Weight Loss, Muscle Building, Cardio, Zumba, Strength Training
+create seo blog and build content clusters for improve google ranking and which drives local leads 
+instructions:
+Use headings (H1, H2, H3)
+Add intro + conclusion
+Add FAQs
+Add CTA
+Use paragraphs + bullets
+Mention:
+Primary keyword
+Secondary keywords
+Location keywords
+Search intent (informational / commercial)
+Generate:
+One pillar article
+Multiple supporting blogs
+Internal linking suggestions
+output format:
+Separate sections
+Clear titles
+Organized format
+Easy to save as text file
