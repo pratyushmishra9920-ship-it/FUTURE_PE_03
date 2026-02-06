@@ -88,7 +88,7 @@ It shows how the pillar page and supporting blogs are internally linked to impro
 - Basic structure  
 
 Location:
-/prompts/v1_prompt.txt
+Location: [v1_prompt.txt](prompts/v1_prompt.txt)
 
 ---
 
@@ -100,7 +100,7 @@ Location:
 - Clear content hierarchy  
 
 Location:
-/prompts/v2_prompt.txt
+Location: [v2_prompt.txt](prompts/v2_prompt.txt)
 
 
 ---
@@ -109,8 +109,9 @@ Location:
 ## 📄 Generated Outputs
 
 The generated SEO content and content clusters are stored in:
-/outputs/v1_output.txt
-/outputs/v2_output.txt
+Location: [v1_output.txt](outputs/v1_output.txt)
+Location: [v2_output.txt](outputs/v2_output.txt)
+
 
 
 These files contain:
