@@ -109,18 +109,18 @@ Location:
 ## 📄 Generated Outputs
 
 The generated SEO content and content clusters are stored in:
-Location: [v1_output.txt](outputs/v1_output.txt)
-Location: [v2_output.txt](outputs/v2_output.txt)
 
-
+- Version 1 Output: [v1_output.txt](outputs/v1_output.txt)
+- Version 2 Output: [v2_output.txt](outputs/v2_output.txt)
 
 These files contain:
 
-- Pillar blog content  
-- Supporting blog outlines  
-- Internal linking plan  
-- CTA structure  
-- FAQ sections  
+- Pillar blog content
+- Supporting blog outlines
+- Internal linking plan
+- CTA structure
+- FAQ sections
+
 
 ---
 
