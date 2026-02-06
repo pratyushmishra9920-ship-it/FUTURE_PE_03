@@ -14,6 +14,9 @@ Business Chosen: PowerFit Gym
 Location: Prayagraj, Uttar Pradesh  
 Industry: Fitness & Wellness  
 
+🌐 Live Demo Website:
+
+
 This project focuses on creating:
 
 - A main pillar SEO blog  
